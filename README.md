@@ -86,6 +86,3 @@ Recency is the strongest indicator of churn risk — churned customers have much
 - **Jupyter Notebook** – for exploration and reporting  
 
 ---
-
-## 📂 Project Structure
-
